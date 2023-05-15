@@ -3365,7 +3365,7 @@ Fix issues from @orbitgw</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.73m out of 401m repositories</span>
+                                    <span class="gh">ranked 4.40m out of 401m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3784,7 +3784,7 @@ Fix issues from @orbitgw</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 May 2023, 00:16:38 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 16 May 2023, 01:11:48 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
