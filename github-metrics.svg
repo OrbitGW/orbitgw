@@ -2941,7 +2941,7 @@
                 </h2>
                 <div class="row">
                     <section class="people">
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcCBAUI/8QAKhAAAQQBAgQFBQEAAAAAAAAAAQIDBAURADEGEhMhI0FRYXEHFCKRobH/xAAZAQABBQAAAAAAAAAAAAAAAAAEAQIDBQb/xAAeEQACAgIDAQEAAAAAAAAAAAABAgADERMEMUEh4f/aAAwDAQACEQMRAD8AFmVM0Uums6t1chAPPKHKQtskYW37jGSPnTYmXUaG0FuKdXlJWEstl1ZAGScJB7e+gWzaqaOW3HnMSHPBDpU2RgAkgf4dazweprFtMWatDTjeOmptTuUoCyMY2xrM2naVJH7LygYJUGbtfZQZtYiTWhCI68rxjHKc9wR5HO+h29urV2f1K2A/MaUkFTqWu3N5j9Y1Rj102bAsJC5ruXkqc6iTyA+GBkZ228/TWDFv36CJHitV78xLjLbvU59soAx/P7qbj0bCT5FtsNfwRtx+Fqy6vI1k+6JDDbRYcjFOW3Cgr3Pyvb21S+oVHIuHojlaW2ls87fTCi0Pc5APpoW+j3G1rcym4shMZppLK1eEggk5G+SdFNxZSAw65lJV1FDuNGcZQa9beQC5ijC1ZNbBh8LzGkD7gxo/P0wB4gAPY+gI1zxc8ZA2LphymmI/YIadgIe5ABjAKu4Hbb59dNSrupk+8uoL6wI324/FGR5H30muN6KJBu0NRitKDEjrI/HctJydvM9/knRFaozFcdRljOiBs95n/9k=" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYAAwcI/8QALRAAAQQBAgQDCAMAAAAAAAAAAQIDBAURAAYSEyExIlGBBxQyQWFiofAjUrH/xAAZAQABBQAAAAAAAAAAAAAAAAAEAQIDBQb/xAAeEQACAwACAwEAAAAAAAAAAAABAgADEQQhEiNBMf/aAAwDAQACEQMRAD8Ao2lDdpbpyZ7u63GeBQ4kJyB8x+/XTBZWG4J0RyTROVjcdt3CUvqc5jgQSF5wMDONBvZ1cTrB6PGmyVyG3K8SDxf2/j69vvOpY+7R7OwirYkF10htS2nwjuvI8GepOfydZm1GS32DTLvjeLJg6EJ2G8IbdO3Jc4G5Cjy+UTx4c7YyO/UEaqi09RZ86bZuOvvvOqI5ZUkISDgDoevbOfrqq9pUxaWvacQA/wA9v4U57rwfwT10LpbmVXMvtTZsSIlTynGEvx05U0QOEjp27j0OieLUubIr7CDk2OnhV9PGCq2BGhh04UWGQ3n5DOBpKtdnsubqctA8ODm88Nqa8YWevRflnro7ZOuVVTJjxHHCiMsIbU84p1WMjupZJPrpY3JuabFYU80hji8lJJH+6PqC21jfkBtV6m0H9jNNrhZQI2V4EV3jGVHBweoOP3I1zzuy12jDvZEVNJPsnGDy3ZDc4hBWO6U+HsO3prQau/s7LaS5DspbT5fUkLZ8BQOvw+WsF3rGRF3Zbss8QQmU6AM/edLSoscmNv2pFUfe5//Z" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -3675,7 +3675,7 @@ Thanks.
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.97m out of 55.2m repositories</span>
+                                    <span class="gh">ranked 4.98m out of 54m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -4094,7 +4094,7 @@ Thanks.
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Nov 2023, 00:17:54 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Nov 2023, 01:12:55 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
